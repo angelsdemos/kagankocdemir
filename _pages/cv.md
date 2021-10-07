@@ -12,8 +12,7 @@ Education
 * German Language and Literature Bachelor's Degree, Ege University 2024 (Expected)
 * Geomatic Engineering Bachelor's Degree, Yildiz Technical University 2016
 
-
-
+<br><br>
 
 Experiences
 ======
