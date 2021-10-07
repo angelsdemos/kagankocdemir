@@ -9,49 +9,38 @@ redirect_from:
 
 Education
 ======
-* Geomatic Engineering, Yildiz Technical University
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* German Language and Literature Bachelor's Degree, Ege University 2024 (Expected)
+* Geomatic Engineering Bachelor's Degree, Yildiz Technical University 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Experiences
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Freelancer | Data Analyst**
+__(07.2021 - Still)__
+  * Data Manipulation and Data Extraction with Pandas, BeatifulSoup etc.
+  * Data Visualization with Pandas, Matplotlib etc.
+  * Creating different outputs according to clients.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* **Intern | Geomatic Engineer**
+*(Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014*
+
+  * Project management of land arrangement
+  * Elevation difference calculations
+  * Creating of topographic maps with NetCAD, AutoCAD, ArcGIS
+
+* **Intern | Surveying Engineer**
+*(Ahmet Toros Harita Muhendislik, Izmır, Turkey) | Summer 2013*
+  * Surveying, application using with Total Station and GPS
+  * Calculation of excavation
+  * Land subdivision, renunciation for road and parceling via NetCAD, AutoCAD
+
+* **Writer | Content Creater**
+*(Bildirgec.org) | (2012 - 2014)*
+  * Writing and creating content about technology, internet etc.
   
-Talks
+Projects & Publications
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Personal IMDB Graphs with Bokeh
+* 1
+* 2
+* 3
