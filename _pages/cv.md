@@ -20,18 +20,21 @@ Experiences
   * Data Visualization with Pandas, Matplotlib etc.
   * Creating different outputs according to clients.
 
-## **Intern | Geomatic Engineer** *(Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014*
+## **Intern | Geomatic Engineer**
+*(Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014*
 
   * Project management of land arrangement
   * Elevation difference calculations
   * Creating of topographic maps with NetCAD, AutoCAD, ArcGIS
 
-## **Intern | Surveying Engineer** *(Ahmet Toros Harita Muhendislik, Izmır, Turkey) | Summer 2013*
+## **Intern | Surveying Engineer**
+*(Ahmet Toros Harita Muhendislik, Izmır, Turkey) | Summer 2013*
   * Surveying, application using with Total Station and GPS
   * Calculation of excavation
   * Land subdivision, renunciation for road and parceling via NetCAD, AutoCAD
 
-## **Writer | Content Creater** *(Bildirgec.org) | (2012 - 2014)*
+## **Writer | Content Creater**
+*(Bildirgec.org) | (2012 - 2014)*
   * Writing and creating content about technology, internet etc.
   
 Projects & Publications
