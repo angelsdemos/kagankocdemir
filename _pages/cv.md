@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+[Download PDF Version](files/cv.pdf)
+
 Education
 ======
 * German Language and Literature Bachelor's Degree, Ege University 2024 (Expected)
