@@ -16,13 +16,13 @@ Education
 Experiences
 ======
 * **Freelancer | Data Analyst**
-__(07.2021 - Still)__
+* (07.2021 - Still) *
   * Data Manipulation and Data Extraction with Pandas, BeatifulSoup etc.
   * Data Visualization with Pandas, Matplotlib etc.
   * Creating different outputs according to clients.
 
 * **Intern | Geomatic Engineer**
-*(Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014*
+* (Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014 *
 
   * Project management of land arrangement
   * Elevation difference calculations
