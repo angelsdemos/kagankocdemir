@@ -10,6 +10,7 @@ redirect_from:
 
 ## [Personal IMDB Graphs with Bokeh](https://github.com/angelsdemos/Personal-IMDB-Graphs-with-Bokeh)
 <img src="images/imdbgraphs.png" width=500>
+
 Do you like watching movies and also rate all of them in IMDB? Would you like to look at your IMDB stats based on your rated movie data? And also would like to see a bunch of graphs and tables. Come in then, this little script is for you! Made with Pandas, Bokeh. For more information, visit Github Page.
 
 ## Ege University Regulation of Blood Infusion Program
