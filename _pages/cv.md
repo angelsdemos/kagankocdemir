@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF Version](files/cv.pdf)
+[Download PDF Version](https://angelsdemos.github.io/kaganhazalkocdemir/files/cv.pdf)
 
 Education
 ======
@@ -52,7 +52,7 @@ Projects & Publications
   * Record keeping, different calculation methods and create graphs.
   * Python, Matplotlib, Tkinter
 
-### [3D City Model Generation with Photogrammetric Maps and LiDAR Data](files/3b_modelling_bildiri.pdf) | Published Paper
+### [3D City Model Generation with Photogrammetric Maps and LiDAR Data](https://angelsdemos.github.io/kaganhazalkocdemir/files/3b_modelling_bildiri.pdf) | Published Paper
   * 3D LOD2 Level City Modelling in Karakoy Area in Istanbul with LiDAR Data
   * Roads and other details come from OpenStreetMap
   * Using CityEngine and ArcGIS
