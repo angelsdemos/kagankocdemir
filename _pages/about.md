@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## [debe to kindle](https://github.com/angelsdemos/debe-to-kindle)
-<img src="https://github.com/angelsdemos/debe-to-kindle/raw/main/img/dtk1.jpg" width=600>
+<img src="https://github.com/angelsdemos/debe-to-kindle/raw/main/img/dtk1.jpg" width=500>
 
 Mini Tool to lovers of debe from eksisozluk (one of the most famous website -refered as collaborative dictionary like reddit- in Turkey) for pushing debe (Most Liked Entries of Yesterday) to kindle every day via Github Actions.
 
