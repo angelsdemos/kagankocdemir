@@ -71,7 +71,7 @@ Courses & Certications
 - [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/4189799734aeaf3cade99dc6487bf4af56c0a751)
     - 88 Hours, 6 Projects, 3 Assessments
     - 23 Courses in Python, SQL, Machine Learning
-- Git from Basics to Advanced
+- [Git from Basics to Advanced](https://www.udemy.com/certificate/UC-7dd16ac6-5bbf-4bca-9b89-cc2f07d35b19/)
 
 
 Skills
