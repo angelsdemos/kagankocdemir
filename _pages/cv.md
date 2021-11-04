@@ -66,14 +66,13 @@ Projects & Publications
   * Basic Categorial Map of Turkey's Archaeological Sites and Museums based on official data
   * Using only Google Maps api, js and css.
 
-Cources & Certications
+Courses & Certications
 ======
-*  Git from Basics to Advanced
-*  Writing Efficient Python Code
-*  Python Data Science Toolbox (1 & 2)
-*  Data Types for Data Science in Python
-*  Interactive Data Visualization with Bokeh
-*  Introduction to Data Science in Python
+- [Data Scientist with Python](https://www.datacamp.com/statement-of-accomplishment/track/4189799734aeaf3cade99dc6487bf4af56c0a751)
+    - 88 Hours, 6 Projects, 3 Assessments
+    - 23 Courses in Python, SQL, Machine Learning
+- Git from Basics to Advanced
+
 
 Skills
 ======
