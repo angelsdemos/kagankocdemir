@@ -73,7 +73,7 @@ Courses & Certications
     - 23 Courses in Python, SQL, Machine Learning
 - [Git from Basics to Advanced](https://www.udemy.com/certificate/UC-7dd16ac6-5bbf-4bca-9b89-cc2f07d35b19/)
 - [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/b1f17e74fa006ebfc2f6c5c0e42821b9e65d8a64)
-    - 62 Hours, 16 P Courses, 2 Skill Assessments
+    - 62 Hours, 16 Courses, 2 Skill Assessments
 - [Data Manipulation with Python](https://www.datacamp.com/statement-of-accomplishment/track/90b9ecefebc49f62f55980b706a506bba3c93531)
 
 
