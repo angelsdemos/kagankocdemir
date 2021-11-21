@@ -66,7 +66,7 @@ og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Codewars"
   name                   : # If the user or organization name differs from the site's name
   links: 
     - "https://www.codewars.com/users/angelsdemos"
@@ -107,7 +107,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/15506524/ka%C4%9Fan-hazal-ko%C3%A7demir"
+  stackoverflow    : "15506524/kağan-hazal-koçdemir"
   steam            :
   tumblr           :
   twitter          :
