@@ -16,6 +16,7 @@ Skills
   * Data Visualization : Bokeh, Matplotlib, Seaborn, Pygal, GGplot
   * Web : Flask
   * Web Scraping : BeatifulSoup, Selenium
+  * GUI : PyQt, Pyside, Tkinter
   * Scikit-learn, SciPy, NetworkX, SQLAlchemy
 * SQL
 * Database
