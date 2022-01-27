@@ -1,13 +1,36 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
 [Download PDF Version](https://angelsdemos.github.io/kaganhazalkocdemir/files/cv.pdf)
+
+Skills
+======
+* Python
+  * Data Manupulation : Pandas, Numpy, Dask
+  * Data Visualization : Bokeh, Matplotlib, Seaborn, Pygal, GGplot
+  * Web : Flask
+  * Web Scraping : BeatifulSoup, Selenium
+  * Scikit-learn, SciPy, NetworkX, SQLAlchemy
+* SQL
+* Database
+  * MySQL
+  * Mongodb
+  * PostgreSQL
+  * SQLite
+* HTML, CSS
+* Javacript (*poor*)
+* REST API
+* ArcGIS
+* CityEngine
+* AutoCAD
+* QGIS
+
 
 Education
 ======
@@ -20,7 +43,7 @@ Experiences
 ======
 ### **Freelancer | Data Analyst** *(07.2021 - Still)*
   * Data Manipulation and Data Extraction with Pandas, BeatifulSoup etc.
-  * Data Visualization with Pandas, Matplotlib etc.
+  * Data Visualization with Bokeh, Matplotlib etc.
   * Creating different outputs according to clients.
 
 ### **Intern | Geomatic Engineer**
@@ -75,18 +98,6 @@ Courses & Certications
 - [Data Analyst with Python](https://www.datacamp.com/statement-of-accomplishment/track/b1f17e74fa006ebfc2f6c5c0e42821b9e65d8a64)
     - 62 Hours, 16 Courses, 2 Skill Assessments
 - [Data Manipulation with Python](https://www.datacamp.com/statement-of-accomplishment/track/90b9ecefebc49f62f55980b706a506bba3c93531)
-
-
-Skills
-======
-* Python
-* SQL
-* HTML, CSS
-* ArcGIS
-* CityEngine
-* AutoCAD
-* QGIS
-
 
 Achivements
 ======
