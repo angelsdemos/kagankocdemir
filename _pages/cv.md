@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF Version](https://angelsdemos.github.io/kaganhazalkocdemir/files/cv.pdf)
+[Download PDF Version (*Old Version*)](https://angelsdemos.github.io/kaganhazalkocdemir/files/cv.pdf)
 
 Skills
 ======
@@ -72,16 +72,23 @@ Courses & Certications
 
 Education
 ======
-* German Language and Literature Bachelor's Degree, Ege University 2024 (Expected)
+* Information Technologies Master's Degree, Ege University 2024 (Expected)
+* German Language and Literature Bachelor's Degree, Ege University 2024 (Dropped)
+* Occupational Safety Master's Degree, Ege University (Dropped)
 * Geomatic Engineering Bachelor's Degree, Yildiz Technical University 2016
 * Philosophy (Remote Learning), Istanbul University
 
 Experiences
 ======
-### **Freelancer | Data Analyst** *(07.2021 - Still)*
+### QA Engineer | Astound Commerce (02.2022 - *Still*)
+  * Requirement Analysis, Creating Test Cases, Test Management, Test Planning
+  * Bug Reporting, Bug Verification
+  * Test execution, improving QA-related documents
+
+### **Freelancer | Data Analyst** (07.2021 - 03.2022)
   * Data Manipulation and Data Extraction with Pandas, BeatifulSoup etc.
   * Data Visualization with Bokeh, Matplotlib etc.
-  * Creating different outputs according to clients.
+  * Creating different outputs, API integration, CI Projects etc.
 
 ### **Intern | Geomatic Engineer**
 *(Egemen Harita Mühendislik, Izmır, Turkey) | Summer 2014*
